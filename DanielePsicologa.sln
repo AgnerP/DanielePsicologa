@@ -61,6 +61,145 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "testimonials", "testimonial
 		assets\img\testimonials\testimonials-5.jpg = assets\img\testimonials\testimonials-5.jpg
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aos", "aos", "{224657F8-C63C-4015-B3E1-089101B299A8}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\aos\aos.css = assets\vendor\aos\aos.css
+		assets\vendor\aos\aos.js = assets\vendor\aos\aos.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bootstrap", "bootstrap", "{29DCB23D-7320-418E-867A-E701C28EE395}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{1033B31B-41D8-492A-ABD2-34E25E166DF7}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\bootstrap\css\bootstrap-grid.css = assets\vendor\bootstrap\css\bootstrap-grid.css
+		assets\vendor\bootstrap\css\bootstrap-grid.css.map = assets\vendor\bootstrap\css\bootstrap-grid.css.map
+		assets\vendor\bootstrap\css\bootstrap-grid.min.css = assets\vendor\bootstrap\css\bootstrap-grid.min.css
+		assets\vendor\bootstrap\css\bootstrap-grid.min.css.map = assets\vendor\bootstrap\css\bootstrap-grid.min.css.map
+		assets\vendor\bootstrap\css\bootstrap-reboot.css = assets\vendor\bootstrap\css\bootstrap-reboot.css
+		assets\vendor\bootstrap\css\bootstrap-reboot.css.map = assets\vendor\bootstrap\css\bootstrap-reboot.css.map
+		assets\vendor\bootstrap\css\bootstrap-reboot.min.css = assets\vendor\bootstrap\css\bootstrap-reboot.min.css
+		assets\vendor\bootstrap\css\bootstrap-reboot.min.css.map = assets\vendor\bootstrap\css\bootstrap-reboot.min.css.map
+		assets\vendor\bootstrap\css\bootstrap.css = assets\vendor\bootstrap\css\bootstrap.css
+		assets\vendor\bootstrap\css\bootstrap.css.map = assets\vendor\bootstrap\css\bootstrap.css.map
+		assets\vendor\bootstrap\css\bootstrap.min.css = assets\vendor\bootstrap\css\bootstrap.min.css
+		assets\vendor\bootstrap\css\bootstrap.min.css.map = assets\vendor\bootstrap\css\bootstrap.min.css.map
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{868CF82E-DC86-48C0-B743-886DAE9ED419}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\bootstrap\js\bootstrap.bundle.js = assets\vendor\bootstrap\js\bootstrap.bundle.js
+		assets\vendor\bootstrap\js\bootstrap.bundle.js.map = assets\vendor\bootstrap\js\bootstrap.bundle.js.map
+		assets\vendor\bootstrap\js\bootstrap.bundle.min.js = assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+		assets\vendor\bootstrap\js\bootstrap.bundle.min.js.map = assets\vendor\bootstrap\js\bootstrap.bundle.min.js.map
+		assets\vendor\bootstrap\js\bootstrap.js = assets\vendor\bootstrap\js\bootstrap.js
+		assets\vendor\bootstrap\js\bootstrap.js.map = assets\vendor\bootstrap\js\bootstrap.js.map
+		assets\vendor\bootstrap\js\bootstrap.min.js = assets\vendor\bootstrap\js\bootstrap.min.js
+		assets\vendor\bootstrap\js\bootstrap.min.js.map = assets\vendor\bootstrap\js\bootstrap.min.js.map
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "boxicons", "boxicons", "{638A6986-C22E-4BD2-8670-8844E1E3F8F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{0A6A8C6B-DC47-4551-BD63-BAFED63B0BB2}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\boxicons\css\animations.css = assets\vendor\boxicons\css\animations.css
+		assets\vendor\boxicons\css\boxicons.css = assets\vendor\boxicons\css\boxicons.css
+		assets\vendor\boxicons\css\boxicons.min.css = assets\vendor\boxicons\css\boxicons.min.css
+		assets\vendor\boxicons\css\transformations.css = assets\vendor\boxicons\css\transformations.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{A590036D-FE93-4B94-ABDC-B72D0DC00E1D}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\boxicons\fonts\boxicons.eot = assets\vendor\boxicons\fonts\boxicons.eot
+		assets\vendor\boxicons\fonts\boxicons.svg = assets\vendor\boxicons\fonts\boxicons.svg
+		assets\vendor\boxicons\fonts\boxicons.ttf = assets\vendor\boxicons\fonts\boxicons.ttf
+		assets\vendor\boxicons\fonts\boxicons.woff = assets\vendor\boxicons\fonts\boxicons.woff
+		assets\vendor\boxicons\fonts\boxicons.woff2 = assets\vendor\boxicons\fonts\boxicons.woff2
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "counterup", "counterup", "{3C6AC75F-82B1-4EAE-B1D1-D2B88CC4A4E9}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\counterup\counterup.min.js = assets\vendor\counterup\counterup.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "icofont", "icofont", "{8F1686FA-27D2-46A9-8359-88006BB0C6F4}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\icofont\icofont.min.css = assets\vendor\icofont\icofont.min.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{9A48D9BE-7FFF-48A0-90EF-4DD63D8400F8}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\icofont\fonts\icofont.woff = assets\vendor\icofont\fonts\icofont.woff
+		assets\vendor\icofont\fonts\icofont.woff2 = assets\vendor\icofont\fonts\icofont.woff2
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "isotope-layout", "isotope-layout", "{263ED5DF-FFF0-4FB4-8854-6E405A39A3B2}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\isotope-layout\isotope.pkgd.js = assets\vendor\isotope-layout\isotope.pkgd.js
+		assets\vendor\isotope-layout\isotope.pkgd.min.js = assets\vendor\isotope-layout\isotope.pkgd.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "jquery", "jquery", "{E34F91A5-F65C-4E03-9530-F378AA173265}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\jquery\jquery.min.js = assets\vendor\jquery\jquery.min.js
+		assets\vendor\jquery\jquery.min.map = assets\vendor\jquery\jquery.min.map
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "jquery.easing", "jquery.easing", "{EB26B51E-0A9D-4CFC-836F-FAE44C776A5E}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\jquery.easing\jquery.easing.min.js = assets\vendor\jquery.easing\jquery.easing.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "owl.carousel", "owl.carousel", "{A9F43AA0-4702-44EF-9960-83E3BAA6560F}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\owl.carousel\LICENSE = assets\vendor\owl.carousel\LICENSE
+		assets\vendor\owl.carousel\owl.carousel.js = assets\vendor\owl.carousel\owl.carousel.js
+		assets\vendor\owl.carousel\owl.carousel.min.js = assets\vendor\owl.carousel\owl.carousel.min.js
+		assets\vendor\owl.carousel\README.md = assets\vendor\owl.carousel\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{CD074F06-F8E1-48FE-BF81-55AC898F00A8}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\owl.carousel\assets\ajax-loader.gif = assets\vendor\owl.carousel\assets\ajax-loader.gif
+		assets\vendor\owl.carousel\assets\owl.carousel.css = assets\vendor\owl.carousel\assets\owl.carousel.css
+		assets\vendor\owl.carousel\assets\owl.carousel.min.css = assets\vendor\owl.carousel\assets\owl.carousel.min.css
+		assets\vendor\owl.carousel\assets\owl.theme.default.css = assets\vendor\owl.carousel\assets\owl.theme.default.css
+		assets\vendor\owl.carousel\assets\owl.theme.default.min.css = assets\vendor\owl.carousel\assets\owl.theme.default.min.css
+		assets\vendor\owl.carousel\assets\owl.theme.green.css = assets\vendor\owl.carousel\assets\owl.theme.green.css
+		assets\vendor\owl.carousel\assets\owl.theme.green.min.css = assets\vendor\owl.carousel\assets\owl.theme.green.min.css
+		assets\vendor\owl.carousel\assets\owl.video.play.png = assets\vendor\owl.carousel\assets\owl.video.play.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "php-email-form", "php-email-form", "{F63F8EAE-2C7E-4268-936D-83F22C95E76D}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\php-email-form\validate.js = assets\vendor\php-email-form\validate.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "typed.js", "typed.js", "{D7B25189-CC53-45FC-BE31-F7087EDC7F8D}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\typed.js\typed.js = assets\vendor\typed.js\typed.js
+		assets\vendor\typed.js\typed.min.js = assets\vendor\typed.js\typed.min.js
+		assets\vendor\typed.js\typed.min.js.map = assets\vendor\typed.js\typed.min.js.map
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "venobox", "venobox", "{60B1C671-0678-42F4-BF24-B8886BD88D06}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\venobox\venobox.css = assets\vendor\venobox\venobox.css
+		assets\vendor\venobox\venobox.js = assets\vendor\venobox\venobox.js
+		assets\vendor\venobox\venobox.min.css = assets\vendor\venobox\venobox.min.css
+		assets\vendor\venobox\venobox.min.js = assets\vendor\venobox\venobox.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "waypoints", "waypoints", "{E313FF4F-35E8-4950-AEEF-1AFCF3CCB25E}"
+	ProjectSection(SolutionItems) = preProject
+		assets\vendor\waypoints\jquery.waypoints.min.js = assets\vendor\waypoints\jquery.waypoints.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "forms", "forms", "{D6671EFF-6CA1-4373-9B33-75747F86F00D}"
+	ProjectSection(SolutionItems) = preProject
+		forms\contact.php = forms\contact.php
+		forms\Readme.txt = forms\Readme.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +212,26 @@ Global
 		{D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E} = {BD226C54-6BFD-47BB-B817-20E34B8348BF}
 		{CDA237A8-2A4F-408F-A4A4-87D2F2398285} = {05E4E701-8ABA-4C52-874B-D0B4FD9791FF}
 		{319D7090-1853-4EE2-9695-6F0DD4F6250F} = {05E4E701-8ABA-4C52-874B-D0B4FD9791FF}
+		{224657F8-C63C-4015-B3E1-089101B299A8} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{29DCB23D-7320-418E-867A-E701C28EE395} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{1033B31B-41D8-492A-ABD2-34E25E166DF7} = {29DCB23D-7320-418E-867A-E701C28EE395}
+		{868CF82E-DC86-48C0-B743-886DAE9ED419} = {29DCB23D-7320-418E-867A-E701C28EE395}
+		{638A6986-C22E-4BD2-8670-8844E1E3F8F3} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{0A6A8C6B-DC47-4551-BD63-BAFED63B0BB2} = {638A6986-C22E-4BD2-8670-8844E1E3F8F3}
+		{A590036D-FE93-4B94-ABDC-B72D0DC00E1D} = {638A6986-C22E-4BD2-8670-8844E1E3F8F3}
+		{3C6AC75F-82B1-4EAE-B1D1-D2B88CC4A4E9} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{8F1686FA-27D2-46A9-8359-88006BB0C6F4} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{9A48D9BE-7FFF-48A0-90EF-4DD63D8400F8} = {8F1686FA-27D2-46A9-8359-88006BB0C6F4}
+		{263ED5DF-FFF0-4FB4-8854-6E405A39A3B2} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{E34F91A5-F65C-4E03-9530-F378AA173265} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{EB26B51E-0A9D-4CFC-836F-FAE44C776A5E} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{A9F43AA0-4702-44EF-9960-83E3BAA6560F} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{CD074F06-F8E1-48FE-BF81-55AC898F00A8} = {A9F43AA0-4702-44EF-9960-83E3BAA6560F}
+		{F63F8EAE-2C7E-4268-936D-83F22C95E76D} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{D7B25189-CC53-45FC-BE31-F7087EDC7F8D} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{60B1C671-0678-42F4-BF24-B8886BD88D06} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{E313FF4F-35E8-4950-AEEF-1AFCF3CCB25E} = {D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}
+		{D6671EFF-6CA1-4373-9B33-75747F86F00D} = {2F9FC73D-B8CE-4D99-B926-74CDF698C05B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {676DDC9C-595B-48D0-BA79-09E905E1EBC6}
