@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F9FC73D-B8CE-4D99-B926-74CDF698C05B}"
+	ProjectSection(SolutionItems) = preProject
+		changelog.txt = changelog.txt
+		index.html = index.html
+		portfolio-details.html = portfolio-details.html
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{BD226C54-6BFD-47BB-B817-20E34B8348BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{91D4A5E8-56A7-4DEE-A22A-D77D9D08C560}"
+	ProjectSection(SolutionItems) = preProject
+		assets\css\style.css = assets\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{05E4E701-8ABA-4C52-874B-D0B4FD9791FF}"
+	ProjectSection(SolutionItems) = preProject
+		assets\img\apple-touch-icon.png = assets\img\apple-touch-icon.png
+		assets\img\favicon.png = assets\img\favicon.png
+		assets\img\hero-bg.jpg = assets\img\hero-bg.jpg
+		assets\img\hero-bg2.jpg = assets\img\hero-bg2.jpg
+		assets\img\hero-bg3.jpg = assets\img\hero-bg3.jpg
+		assets\img\profile-img.jpg = assets\img\profile-img.jpg
+		assets\img\profile-img2.jpg = assets\img\profile-img2.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{2C36EFC2-30E2-466F-9AB7-71E08D9FC515}"
+	ProjectSection(SolutionItems) = preProject
+		assets\js\main.js = assets\js\main.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vendor", "vendor", "{D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "portfolio", "portfolio", "{CDA237A8-2A4F-408F-A4A4-87D2F2398285}"
+	ProjectSection(SolutionItems) = preProject
+		assets\img\portfolio\portfolio-1.jpg = assets\img\portfolio\portfolio-1.jpg
+		assets\img\portfolio\portfolio-2.jpg = assets\img\portfolio\portfolio-2.jpg
+		assets\img\portfolio\portfolio-3.jpg = assets\img\portfolio\portfolio-3.jpg
+		assets\img\portfolio\portfolio-4.jpg = assets\img\portfolio\portfolio-4.jpg
+		assets\img\portfolio\portfolio-5.jpg = assets\img\portfolio\portfolio-5.jpg
+		assets\img\portfolio\portfolio-6.jpg = assets\img\portfolio\portfolio-6.jpg
+		assets\img\portfolio\portfolio-7.jpg = assets\img\portfolio\portfolio-7.jpg
+		assets\img\portfolio\portfolio-8.jpg = assets\img\portfolio\portfolio-8.jpg
+		assets\img\portfolio\portfolio-9.jpg = assets\img\portfolio\portfolio-9.jpg
+		assets\img\portfolio\portfolio-details-1.jpg = assets\img\portfolio\portfolio-details-1.jpg
+		assets\img\portfolio\portfolio-details-2.jpg = assets\img\portfolio\portfolio-details-2.jpg
+		assets\img\portfolio\portfolio-details-3.jpg = assets\img\portfolio\portfolio-details-3.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "testimonials", "testimonials", "{319D7090-1853-4EE2-9695-6F0DD4F6250F}"
+	ProjectSection(SolutionItems) = preProject
+		assets\img\testimonials\testimonials-1.jpg = assets\img\testimonials\testimonials-1.jpg
+		assets\img\testimonials\testimonials-2.jpg = assets\img\testimonials\testimonials-2.jpg
+		assets\img\testimonials\testimonials-3.jpg = assets\img\testimonials\testimonials-3.jpg
+		assets\img\testimonials\testimonials-4.jpg = assets\img\testimonials\testimonials-4.jpg
+		assets\img\testimonials\testimonials-5.jpg = assets\img\testimonials\testimonials-5.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BD226C54-6BFD-47BB-B817-20E34B8348BF} = {2F9FC73D-B8CE-4D99-B926-74CDF698C05B}
+		{91D4A5E8-56A7-4DEE-A22A-D77D9D08C560} = {BD226C54-6BFD-47BB-B817-20E34B8348BF}
+		{05E4E701-8ABA-4C52-874B-D0B4FD9791FF} = {BD226C54-6BFD-47BB-B817-20E34B8348BF}
+		{2C36EFC2-30E2-466F-9AB7-71E08D9FC515} = {BD226C54-6BFD-47BB-B817-20E34B8348BF}
+		{D918B9EB-3DD8-42F7-B9AD-4F8AB9A5533E} = {BD226C54-6BFD-47BB-B817-20E34B8348BF}
+		{CDA237A8-2A4F-408F-A4A4-87D2F2398285} = {05E4E701-8ABA-4C52-874B-D0B4FD9791FF}
+		{319D7090-1853-4EE2-9695-6F0DD4F6250F} = {05E4E701-8ABA-4C52-874B-D0B4FD9791FF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {676DDC9C-595B-48D0-BA79-09E905E1EBC6}
+	EndGlobalSection
+EndGlobal
